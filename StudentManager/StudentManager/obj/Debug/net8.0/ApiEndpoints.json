@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "StudentManager.Controllers.AlunoController",
+    "Method": "Post",
+    "RelativePath": "api/Aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluno",
+        "Type": "StudentManager.Entities.Aluno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManager.Controllers.AlunoController",
+    "Method": "Get",
+    "RelativePath": "api/Aluno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

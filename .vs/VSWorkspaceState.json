@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentManager",
+    "\\StudentManager\\StudentManager",
+    "\\StudentManager\\StudentManager\\bin",
+    "\\StudentManager\\StudentManager\\Entities",
+    "\\StudentManager\\StudentManager\\Interfaces",
+    "\\StudentManager\\StudentManager\\Interfaces\\IRepositories",
+    "\\StudentManager\\StudentManager\\Properties",
+    "\\StudentManager\\StudentManager\\Repositories",
+    "\\StudentManager\\StudentManager\\Services"
+  ],
+  "SelectedNode": "\\StudentManager\\StudentManager\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
