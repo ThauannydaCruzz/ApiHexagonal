@@ -3,7 +3,11 @@
     public class Aluno
     {
         public Guid Id { get; set; } = Guid.NewGuid();
+
         public string FirstName { get; set; }
+
         public string Email { get; set; }
+
+        public string CursoNome { get; set; }
     }
 }

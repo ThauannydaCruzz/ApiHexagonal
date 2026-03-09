@@ -3,7 +3,7 @@
     "",
     "\\StudentManager",
     "\\StudentManager\\StudentManager",
-    "\\StudentManager\\StudentManager\\bin",
+    "\\StudentManager\\StudentManager\\Controllers",
     "\\StudentManager\\StudentManager\\Entities",
     "\\StudentManager\\StudentManager\\Interfaces",
     "\\StudentManager\\StudentManager\\Interfaces\\IRepositories",
@@ -11,6 +11,6 @@
     "\\StudentManager\\StudentManager\\Repositories",
     "\\StudentManager\\StudentManager\\Services"
   ],
-  "SelectedNode": "\\StudentManager\\StudentManager\\Program.cs",
+  "SelectedNode": "\\StudentManager\\StudentManager.sln",
   "PreviewInSolutionExplorer": false
 }

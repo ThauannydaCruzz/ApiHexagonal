@@ -12,6 +12,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 builder.Services.AddScoped<AlunoService>();
 
+builder.Services.AddScoped<ICursoRepository, CursoRepository>();
+builder.Services.AddScoped<CursoService>();
+
 var app = builder.Build();
 
 app.UseSwagger();

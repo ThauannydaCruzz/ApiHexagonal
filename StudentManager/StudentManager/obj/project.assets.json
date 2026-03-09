@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\StudentManager.csproj",
+      "projectUniqueName": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\StudentManager.csproj",
       "projectName": "StudentManager",
-      "projectPath": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\StudentManager.csproj",
+      "projectPath": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\StudentManager.csproj",
       "packagesPath": "C:\\Users\\thaua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\obj\\",
+      "outputPath": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

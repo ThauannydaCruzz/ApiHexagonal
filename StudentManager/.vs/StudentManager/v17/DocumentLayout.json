@@ -1,37 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\",
+  "WorkspaceRootPath": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\interfaces\\irepositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\interfaces\\irepositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\interfaces\\irepositories\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\interfaces\\irepositories\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\interfaces\\irepositories\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\studentmanager\\studentmanager\\studentmanager\\studentmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|c:\\users\\thaua\\downloads\\api-hexagonal\\studentmanager\\studentmanager\\studentmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{489741EB-F078-4F90-A67B-2F0D56AF28C9}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\studentmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -54,11 +70,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "StudentManager\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:23:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CursoService.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Services\\CursoService.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Services\\CursoService.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Services\\CursoService.cs",
+              "RelativeToolTip": "StudentManager\\Services\\CursoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:22:57.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Repositories\\CursoRepository.cs",
+              "RelativeToolTip": "StudentManager\\Repositories\\CursoRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:14:17.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Interfaces\\IRepositories\\ICursoRepository.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Interfaces\\IRepositories\\ICursoRepository.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Interfaces\\IRepositories\\ICursoRepository.cs",
+              "RelativeToolTip": "StudentManager\\Interfaces\\IRepositories\\ICursoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:14:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\appsettings.json",
               "RelativeDocumentMoniker": "StudentManager\\appsettings.json",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\appsettings.json",
               "RelativeToolTip": "StudentManager\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -66,89 +134,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Repositories\\AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Repositories\\AlunoRepository.cs",
               "RelativeDocumentMoniker": "StudentManager\\Repositories\\AlunoRepository.cs",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Repositories\\AlunoRepository.cs",
               "RelativeToolTip": "StudentManager\\Repositories\\AlunoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T21:46:43.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Program.cs",
               "RelativeDocumentMoniker": "StudentManager\\Program.cs",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Program.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Program.cs",
               "RelativeToolTip": "StudentManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T21:44:04.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Controllers\\AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "StudentManager\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Controllers\\AlunoController.cs",
               "RelativeToolTip": "StudentManager\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T21:43:36.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Services\\AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Services\\AlunoService.cs",
               "RelativeDocumentMoniker": "StudentManager\\Services\\AlunoService.cs",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Services\\AlunoService.cs",
               "RelativeToolTip": "StudentManager\\Services\\AlunoService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T21:39:04.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IAlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Interfaces\\IRepositories\\IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Interfaces\\IRepositories\\IAlunoRepository.cs",
               "RelativeDocumentMoniker": "StudentManager\\Interfaces\\IRepositories\\IAlunoRepository.cs",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Interfaces\\IRepositories\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Interfaces\\IRepositories\\IAlunoRepository.cs",
               "RelativeToolTip": "StudentManager\\Interfaces\\IRepositories\\IAlunoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T21:37:36.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Entities\\Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Entities\\Aluno.cs",
               "RelativeDocumentMoniker": "StudentManager\\Entities\\Aluno.cs",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\Entities\\Aluno.cs",
               "RelativeToolTip": "StudentManager\\Entities\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T21:35:11.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "StudentManager.csproj",
-              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\StudentManager.csproj",
+              "DocumentMoniker": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\StudentManager.csproj",
               "RelativeDocumentMoniker": "StudentManager\\StudentManager.csproj",
-              "ToolTip": "C:\\Users\\thaua\\Downloads\\StudentManager\\StudentManager\\StudentManager\\StudentManager.csproj",
+              "ToolTip": "C:\\Users\\thaua\\Downloads\\API-Hexagonal\\StudentManager\\StudentManager\\StudentManager.csproj",
               "RelativeToolTip": "StudentManager\\StudentManager.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
